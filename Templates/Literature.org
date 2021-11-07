@@ -1,0 +1,13 @@
+*  summary
+
+%?
+
+*  references:
+
+Author: %^{Author}
+Title: ${Title}
+Year: %^{Year}
+URL: %^{URL}
+
+
+
