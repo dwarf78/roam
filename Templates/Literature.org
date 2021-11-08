@@ -1,13 +1,11 @@
-*  summary
+*  ${title}
 
 %?
 
-*  references:
+* source: 
 
-Author: %^{Author}
-Title: ${Title}
-Year: %^{Year}
-URL: %^{URL}
-
-
+Author:: %^{Author}
+Title::  ${Title}
+Year::  %^{Year}
+URL:: %^{URL}
 
