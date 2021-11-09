@@ -1,8 +1,15 @@
-*  ${title}
+* 🖋  ${title}
+* Source:: %^{Source}
+* Author:: %^{Author}
+* Year:: %^{Year}
+* Summary::
 
-- %?
+%?
+
+* Highlights::
+** 
+
+
+
   
-* source::
-
--  
 

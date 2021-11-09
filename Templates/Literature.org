@@ -1,10 +1,5 @@
+* 🔶 📘 ${title}
+* Sources:: 🖋  %?
+* Map of Content:: 
 
-%?
-
-* source:: 
-
-Author:: %^{Author}
-Title::  ${Title}
-Year::  %^{Year}
-URL:: %^{URL}
-
+- 

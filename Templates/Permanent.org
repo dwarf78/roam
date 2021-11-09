@@ -1,9 +1,8 @@
-*  ${title}
+* 🔷 🗳  ${title}
+* Sources:: 🔶 📘 %?
 
-%?
 
-*  see also::
-
+*  See also 🔷 🗳  ::
 - 
 
 
