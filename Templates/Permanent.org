@@ -1,9 +1,10 @@
 * 🔷 🗳  ${title}
-* Sources:: 🔶 📘 %?
+* Sources  🔶 📘:: %?
+* See also 🔷 🗳 ::
+* Map Of Content 🗺 :: 
 
 
-*  See also 🔷 🗳  ::
-- 
+
 
 
 
