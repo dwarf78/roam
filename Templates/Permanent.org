@@ -1,10 +1,6 @@
-* 🔷 🗳  ${title}
-* Sources  🔶 📘:: %?
-* See also 🔷 🗳 ::
-* Map Of Content 🗺 :: 
-
-
-
-
+* ${title}
+* Sources:: %?
+* See also::
+* Map Of Content:: 
 
 

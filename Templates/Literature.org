@@ -1,5 +1,5 @@
-* 🔶 📘 ${title}
-* Sources  📂::  %?
-* Map of Content 🗺:: 
+* ${title}
+* Sources::  %?
+* Map of Content:: 
 
 

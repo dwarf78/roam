@@ -1,4 +1,4 @@
-* 📂  ${title}
+* ${title}
 * Sources::   %^{Source}
 * Author:: %^{Author}
 * Summary:: %? 

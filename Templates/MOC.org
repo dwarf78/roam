@@ -1,6 +1,6 @@
-* 🗺  ${title}
+* ${title}
 * Summary::  %?
-* Sources 🔷 🗳  🔶 📘 ::
+* Sources ::
 * Outline::
 
 ** 
