@@ -1,0 +1,162 @@
+:PROPERTIES:
+:ID:       7c41b792-2b7b-4359-942d-a95dff1c3b33
+:END:
+#+title: Anatomy of the State
+ #+date: [2022-05-01 Sun 19:20]
+#+filetags: :inbox:Reference:
+* Anatomy of the State
+* Sources::   ebook
+* Author:: Murray N. Rothbard
+* Summary::  
+* Highlights::
+
+#1
+The State is almost universally considered an institution of social service.
+2022-04-23
+#2
+the State is not “us,” if it is not “the human family” getting together to decide mutual
+2022-04-23
+#3
+club, what is it?
+2022-04-23
+#4
+the State is that organization in society which attempts to maintain a monopoly of the use of force and violence in a given territorial area; in particular, it is the only organization in society that obtains its revenue not by voluntary contribution or payment for services rendered but by coercion.
+2022-04-23
+#5
+State obtains its revenue by the use of compulsion; that is, by the use and the threat of the jailhouse and the bayonet.3
+2022-04-23
+#6
+The only “natural” course for man to survive and to attain wealth, therefore, is by using his mind and energy to engage in the production-and-exchange process. He does this, first, by finding natural resources, and then by transforming them (by “mixing his labor” with them, as Locke puts it), to make them his individual property, and then by exchanging this property for the similarly obtained property of others. The social path dictated by the requirements of man’s nature, therefore, is the path of “property rights” and the “free market” of gift or exchange of such rights.
+2022-04-23
+#7
+Oppenheimer pointed out that there are two mutually exclusive ways of acquiring wealth; one, the above way of production and exchange, he called the “economic means.” The other way is simpler in that it does not require productivity; it is the way of seizure of another’s goods or services by the use of force and violence. This is the method of one-sided confiscation, of theft of the property of others. This is the method which Oppenheimer termed “the political means” to wealth.
+2022-04-23
+#8
+The “political means” siphons production off to a parasitic and destructive individual or group; and this siphoning not only subtracts from the number producing, but also lowers the producer’s incentive to produce beyond his own subsistence.
+2022-04-23
+#9
+what is the State? The State, in the words of Oppenheimer, is the “organization of the political means”; it is the systematization of the predatory process over a given territory.
+2022-04-23
+#10
+The State provides a legal, orderly, systematic channel for the predation of private property; it renders certain, secure, and relatively “peaceful” the lifeline of the parasitic caste in society.5
+2022-04-23
+#11
+The State has never been created by a “social contract”; it has always been born in conquest and exploitation.
+2022-04-23
+#12
+Man is born naked into the world, and needing to use his mind to learn how to take the resources given him by nature, and to transform them (for example, by investment in “capital”) into shapes and forms and places where the resources can be used for the satisfaction of his wants and the advancement of his standard of living.
+2022-04-23
+#13
+use of his mind and energy to transform resources (“production”) and to
+2022-04-23
+#14
+exchange these products for products created by others.
+2022-04-23
+#15
+Once a State has been established, the problem of the ruling group or “caste” is how to maintain their rule.7 While force is their modus operandi, their basic and long-run problem is ideological. For in order to continue in office, any government (not simply a “democratic” government) must have the support of the majority of its subjects.
+2022-04-23
+#16
+one method of securing support is through the creation of vested economic interests.
+2022-04-23
+#17
+essential acceptance, the majority must be persuaded by ideology that their government is good, wise and, at least, inevitable, and certainly better than other conceivable alternatives. Promoting this ideology among the people is the vital social task of the “intellectuals.”
+2022-04-23
+#18
+The intellectuals are, therefore, the “opinion-molders” in society.
+2022-04-23
+#19
+we may state that the intellectual’s livelihood in the free market is never too secure; for the intellectual must depend on the values and choices of the masses of his fellow men, and it is precisely characteristic of the masses that they are generally uninterested in intellectual matters. The State, on the other hand, is willing to offer the intellectuals a secure and permanent berth in the State apparatus; and
+2022-04-23
+#20
+Many and varied have been the arguments by which the State and its intellectuals have induced their subjects to support their rule. Basically, the strands of argument may be summed up as follows: (a) the State rulers are great and wise men
+2022-04-23
+#21
+much greater and wiser than the good but rather simple subjects, and (b) rule by the extent government is inevitable, absolutely necessary, and far better, than the indescribable evils that would ensue upon its downfall.
+2022-04-23
+#22
+the first task of the State and its intellectuals was to convince the people of Ruritania that the attack was really upon them and not simply upon the ruling caste. In this way, a war between rulers was converted into a war between peoples, with each people coming to the defense of its rulers in the erroneous belief that the rulers were defending them.
+2022-04-23
+#23
+One excellent weapon has been tradition.
+2022-04-23
+#24
+The greatest danger to the State is independent intellectual criticism; there is no better way to stifle that criticism than to attack any isolated voice, any raiser of new doubts, as a profane violator of the wisdom of his ancestors.
+2022-04-23
+#25
+important for the State to make its rule seem inevitable;
+2022-04-23
+#26
+One method is to induce historiographical determinism, as opposed to
+2022-04-23
+#27
+potent ideological force is to deprecate the
+2022-04-23
+#28
+individual and exalt the collectivity of society.
+2022-04-23
+#29
+individual freedom of will.
+2022-04-23
+#30
+. It is also important for the State to inculcate in its subjects an aversion to any “conspiracy theory of history;” for a search for “conspiracies” means a search for motives and an attribution of responsibility for historical misdeeds.
+2022-04-23
+#31
+tried and true method for bending subjects to the State’s will is inducing guilt.
+2022-04-23
+#32
+In the present more secular age, the divine right of the State has been supplemented by the invocation of a new god, Science.
+2022-04-23
+#33
+ideological support being vital to the State, it must unceasingly try to impress the public with its “legitimacy,” to distinguish its activities from those of mere brigands.
+2022-04-23
+#34
+A written constitution certainly has many and considerable advantages, but it is a great mistake to suppose that the mere insertion of provisions to restrict and limit the power of the government, without investing those for whose protection they are inserted with the means of enforcing their observance [my italics] will be sufficient to prevent the major and dominant party from abusing its powers.
+2022-04-29
+#35
+concurrent majority.” If any substantial minority interest in the country, specifically a state government, believed that the Federal Government was exceeding its powers and encroaching on that minority, the minority would have the right to veto this
+2022-04-29
+#36
+nullification theory confines its checks to agencies of government itself.
+2022-04-29
+#37
+Calhoun does not push his path-breaking theory on concurrence far enough: he does not push it down to the individual himself. If the individual, after all, is the one whose rights are to be protected, then a consistent theory of concurrence would imply veto power by every individual; that is, some form of “unanimity principle.”
+2022-04-29
+#38
+the State has invariably shown a striking talent for the expansion of its powers beyond any limits that might be imposed upon it.
+2022-04-29
+#39
+State fears above all, of course, is any fundamental threat to its own power and its own existence.
+2022-04-30
+#40
+major ways: (a) through conquest by another State, or (b) through revolutionary overthrow by its own subjects—in short, by war or revolution.
+2022-04-30
+#41
+War thus provides many benefits to a State, and indeed every
+2022-04-30
+#42
+peoples a permanent legacy of increased State burdens upon society. War, moreover, provides to a State tempting opportunities for conquest of land areas over which it may exercise its monopoly of force.
+2022-04-30
+#43
+test the hypothesis that the State is largely interested in protecting itself rather than its subjects by asking: which category of crimes does the State pursue and punish most intensely—those against private citizens or those against itself? The gravest crimes in the State’s lexicon are almost invariably not invasions of private person or property, but dangers to its own contentment, for example, treason, desertion of a soldier to the enemy, failure to register for
+2022-04-30
+#44
+the draft, subversion and subversive conspiracy, assassination of rulers and such economic crimes against the State as counterfeiting its money or evasion of its income tax.
+2022-04-30
+#45
+The natural tendency of a State is to expand its power, and externally such expansion takes place by conquest of a territorial area.
+2022-04-30
+#46
+War, while risky, will be an ever-present tendency of States, punctuated by periods of peace and by shifting alliances and coalitions between States.
+2022-04-30
+#47
+internal” or “domestic” attempt to limit the State, in the seventeenth through nineteenth centuries, reached its most notable form in constitutionalism. Its “external,” or “foreign affairs,” counterpart was the development of “international law,” especially such forms as the “laws of war” and “neutrals’ rights.”
+2022-04-30
+#48
+One doctrine that has gained curiously wide acceptance is the alleged “sanctity of treaties.” This concept is treated as the counterpart of the “sanctity of contract.” But a treaty and a genuine contract have nothing in common. A contract transfers, in a precise manner, titles to private property. Since a government does not, in any proper sense, “own” its territorial area, any agreements that it concludes do not confer titles to property.
+2022-04-30
+#49
+On the one hand, there is creative productivity, peaceful exchange and cooperation; on the other, coercive dictation and predation over those social relations. Albert Jay Nock happily termed these contesting forces: “social power” and “State power.”41 Social power is man’s power over nature, his cooperative transformation of nature’s resources and insight into nature’s laws, for the benefit of all participating individuals. Social power is the power over nature, the living standards achieved by men in mutual exchange. State power, as we have seen, is the coercive and parasitic seizure of this production—a draining of the fruits of society for the benefit of nonproductive (actually antiproductive) rulers.
+2022-04-30
+#50
+State power is power over man.
+2022-04-30 

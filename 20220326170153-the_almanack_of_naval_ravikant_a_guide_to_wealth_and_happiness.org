@@ -3,7 +3,7 @@
 :END:
 #+title: The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
  #+date: [2022-03-26 Sat 17:01]
-#+filetags: Reference
+#+filetags: :inbox:Reference:
 * The Almanack of Naval Ravikant: A Guide to Wealth and Happiness
 * Sources::   ebook
 * Author:: Eric Jorgenson
