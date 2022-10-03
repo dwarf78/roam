@@ -1,0 +1,80 @@
+:PROPERTIES:
+:ID:       e8b83c9b-17ba-4c1c-ab20-8486a27de240
+:END:
+#+title: Tao Te Ching
+ #+date: [2022-10-03 Mon 21:37]
+#+filetags: Reference
+* Tao Te Ching
+* Sources::   ebook
+* Author:: Lao Tzu
+* Summary::  
+* Highlights::
+
+#1
+Hsia, is at present known to us only through later written sources.
+2022-07-06
+#2
+Scholars now agree that in all probability these figures were originally local deities who, in the process known as euhemerism, were in later ages divested of their more blatantly supernatural characteristics and made to look like historical personages. These mythic figures are followed by the so-called Three Dynasties, the Hsia, the Shang or Yin, and the Chou,
+2022-07-06
+#3
+Shang dynasty, which ruled the Yellow River plain from about 1500 to 1000 B.C.E. Most significant among the Shang period finds are the oracle bones used by Shang diviners in a process by which heat was applied to the bone and the response to the diviner’s query read in the cracks that resulted.
+2022-07-06
+#4
+The Shang state was overthrown in time and replaced by a people known as the Chou, who had previously resided on its western border. Concerning the Chou dynasty, which was founded around 1045 and lasted until 256 B.C.E.,
+2022-07-06
+#5
+After completing the conquest of the Shang, the Chou ruler parcelled out the territory under his control to close relatives, men of other clans who had aided him, and to older rulers already established in the area, thus creating a patchwork of little feudal realms or city-states that stretched all across northern China.
+2022-07-06
+#6
+The lords, like the Chou ruler, lived in walled enclosures,
+2022-07-06
+#7
+earth. Just outside the walls, in much humbler dwellings, lived the artisans and peasants. In later Chou times a second wall was frequently built to enclose this outer area, thus creating the walled cities that were a hallmark of premodern China.
+2022-07-06
+#8
+The Chou ruler, referred to as the Son of Heaven, sacrificed to a sky deity known as T’ien or Heaven, who was believed to certify his right to rulership through the Mandate of Heaven
+2022-07-06
+#9
+Time-honored rites and customs that had regulated society in the earlier Chou period gave way to bureaucratic methods of administration, older systems of tribute were replaced by regular taxes on land and produce, and all efforts were bent toward achieving the most effective control of population and resources so that the state could survive in the cutthroat tenor of the times and advance its goals.
+2022-07-06
+#10
+thinkers came forward to offer the rulers of the various states their advice on political and ethical matters, often journeying from state to state in search of a ruler with a sympathetic ear. Out of this intellectual ferment emerged the writings of the so-called Hundred Schools of philosophy, among them the text presented here in translation, the Lao-Tzu or Tao Te Ching.
+2022-07-06
+#11
+Confucianism is in many ways the most conservative of the schools of thought, seeking a return to the customs and values of the early Chou,
+2022-08-11
+#12
+It placed great emphasis on the family, believing that only when moral obligations within the family are properly observed can such values then be extended to embrace the state and society as a whole.
+2022-08-11
+#13
+half of the fifth century, resembles Confucianism in its reverence for antiquity and emphasis upon ethical principles. But whereas the Confucians aimed at a graded compassion and concern for others that paid highest respect to parents and close kin, Master Mo called for a universal love encompassing all human beings in equal degree.
+2022-08-11
+#14
+In contrast to these doctrines, and utterly opposed to them, were the tenets of the Legalist school, which began to take shape late in the fourth century. Rejecting the beliefs and mores of the past, the Legalists sought by every means possible to strengthen the state and increase its military might. Old customs and moral codes were to be replaced by detailed laws that defined the duties of all groups in society and the penalties to be meted out if they failed to fulfill them. Agriculture and warfare were to be the prime concerns of the population, and the ruler was to have unlimited power to promote them and to see that other activities and doctrines that conflicted with these aims were suppressed.
+2022-08-11
+#15
+to an ideal age in the past, but one that predated the dawn of Chinese history and written culture, a kind of dream of Neolithic simplicity and innocence.
+2022-08-11
+#16
+sets the Taoists apart from the other schools of philosophy is the marked strain of mysticism and quietism that underlies so much of their thought,
+2022-08-11
+#17
+It is this strain that in a Taoist text such as the Tao Te Ching engenders its most potent
+2022-08-11
+#18
+The Chuang-tzu, in thirty-three sections, is made up of writings attributed to the philosopher Chuang Chou (flourished fourth century). The Tao Te Ching, in two parts and eighty-one short sections, has traditionally been attributed to a figure known as Lao-tzu, or the “Old Master.
+2022-08-11
+#19
+The title Tao Te Ching, or Classic of Tao and Te, derives, then, from the fact that, as indicated in Ssu-ma Ch’ien’s account, these two concepts constitute the core of the philosophy expounded in the work. Tao (pronounced like the “dow” in “down”), the term from which the school of Taoism takes its name, means literally a “way” or “path” and is used by other schools of philosophy to refer to a particular calling or mode of conduct.
+2022-08-11
+#20
+Taoist writings it has a far more comprehensive meaning, referring rather to a metaphysical first principle that embraces and underlies all being, a vast Oneness that precedes and in some mysterious manner generates the endlessly diverse forms of the world.
+2022-08-11
+#21
+one must somehow learn to sense its presence and movement in order to bring one’s own life and movements into harmony with it. The aim of the text, then, is to impart to the reader, through hints, symbols, and paradoxical utterances, such an intuitive grasp of the tao and the vital ability to move with it rather than counter to it.
+2022-08-11
+#22
+te (pronounced like the “du” in “dud”), is likewise common in early Chinese historical and philosophical literature and denotes a moral power or virtue characteristic of a person who follows a correct course of conduct.
+2022-08-11
+#23
+te is the virtue or power that one acquires through being in accord with the tao, what one “gets” from the tao.
