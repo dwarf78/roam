@@ -1,9 +1,0 @@
-* ${title}
-
-- tags:: %?
-  
-
-* Links to this note
-** 
-
-
