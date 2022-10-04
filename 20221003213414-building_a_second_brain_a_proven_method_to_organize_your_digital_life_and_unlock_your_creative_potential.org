@@ -1,9 +1,10 @@
 :PROPERTIES:
 :ID:       b9e08e30-2169-4338-8867-5851bd0f5d14
 :END:
+
 #+title: Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
  #+date: [2022-10-03 Mon 21:34]
-#+filetags: Reference
+#+filetags: :inbox:Refecrence:
 * Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential
 * Sources::   ebook
 * Author:: Tiago Forte

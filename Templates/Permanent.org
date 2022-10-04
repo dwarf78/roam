@@ -1,6 +1,8 @@
 * ${title}
-* Sources:: %?
-* See also::
-* Map Of Content:: 
+
+%?
+
+* Links to this note
+** 
 
 
