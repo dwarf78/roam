@@ -1,7 +1,15 @@
 * ${title}
 * Sources::   %^{Source}
 * Author:: %^{Author}
-* Summary:: %? 
+* Year:: %^{Year}
+
+-- tags: %?
+
+* Summary::
+
+
 * Highlights::
+
+
 
  
